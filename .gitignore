@@ -105,3 +105,6 @@ venv.bak/
 
 # vscode
 .vscode/
+
+# SQLite3 DB
+data.db
